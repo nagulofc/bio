@@ -19,6 +19,17 @@
     margin: 30px;
     border: 1px solid rgb(255, 255, 255);
    }
+
+   .price{
+    background-color: white;
+    color: #ffb700;
+    border: 1px solid #ffb700;
+    
+   }
+   .price:active{
+    background-color:#ffb700 ;
+    color:black;
+   }
    .logo{
        padding:15px 20px;
        font-family:arial;
