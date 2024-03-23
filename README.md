@@ -1,1 +1,1 @@
-https://nagulofc.github.io/bio/
+https://nagulofc.github.io
