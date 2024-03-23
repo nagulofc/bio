@@ -7,6 +7,10 @@
     transition: all 0.1s;
    
 }
+body a{
+    text-decoration: none;
+    color: black;
+}
 .container{
     display: flex;
     height: 109px;
